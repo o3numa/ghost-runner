@@ -28,6 +28,7 @@ Credits
 p5.js for rendering
 Express + lowdb for backend logic
 GitHub Gist API for persistence
+ChatGPT
 @o3numa (yØx) — Design, Development, & Direction
 Created by o3numa (Tomatse Ogedegbe)
 Built for educational use with the IMA/NYU Interactive Media Arts program.
